@@ -1,0 +1,1 @@
+This was my semester project for the course Object Oriented Programming. I designed a GUI-based Hospital Management System using Java and integrate it with MySQL database. It consists of admin, doctor, and patient modules with properties like adding, viewing, editing, and deleting data from the database. It was a team-based project that I lead.
